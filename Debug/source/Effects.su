@@ -1,0 +1,9 @@
+../source/Effects.c:9:6:OverdriveInit	16	static
+../source/Effects.c:16:6:Overdrive	40	static
+../source/Effects.c:38:6:TremoloInit	16	static
+../source/Effects.c:42:6:Tremolo	40	static
+../source/Effects.c:58:6:FuzzInit	16	static
+../source/Effects.c:62:6:Fuzz	40	static
+../source/Effects.c:80:6:DelayInit	16	static
+../source/Effects.c:85:6:DelayIIR	32	static
+../source/Effects.c:105:6:DelayFIR	32	static
